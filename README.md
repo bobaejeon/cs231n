@@ -3,8 +3,10 @@ Solutions for assignments for <a href="http://cs231n.stanford.edu/2020/">CS231n 
 
 
 ## Assignment 1
-Q1: k-Nearest Neighbor classifier <a href="">Go</a>
-Q2: Training a Support Vector Machine <a href="">Go</a>
-Q3: Implement a Softmax classifier <a href="">Go</a>
-Q4: Two-Layer Neural Network <a href="">Go</a>
-Q5: Higher Level Representations: Image Features <a href="">Go</a>
+<ul>
+<a href="https://github.com/bobaejeon/cs231n/blob/master/assignment1/knn.ipynb">Q1: k-Nearest Neighbor classifier </a><br>
+<a href="https://github.com/bobaejeon/cs231n/blob/master/assignment1/svm.ipynb">Q2: Training a Support Vector Machine</a><br>
+<a href="https://github.com/bobaejeon/cs231n/blob/master/assignment1/softmax.ipynb">Q3: Implement a Softmax classifier</a><br>
+<a href="https://github.com/bobaejeon/cs231n/blob/master/assignment1/two_layer_net.ipynb">Q4: Two-Layer Neural Network</a><br>
+<a href="https://github.com/bobaejeon/cs231n/blob/master/assignment1/features.ipynb">Q5: Higher Level Representations: Image Features</a><br>
+</ul>
