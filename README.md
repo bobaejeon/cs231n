@@ -1,5 +1,5 @@
 # Convolutional Neural Networks for Visual Recognition
-Solutions for assignments for <a href="http://cs231n.stanford.edu/2020/">CS231n Convolutional Neural Networks for Visual Recognition</a>(Spring 2020, Stanford University)
+Solutions for assignments of <a href="http://cs231n.stanford.edu/2020/">CS231n Convolutional Neural Networks for Visual Recognition</a>(Spring 2020, Stanford University)
 
 
 ## Assignment 1
